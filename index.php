@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Pizza Store</h1>
-
+    <!-- This is a comment -->
    <form action="index.php" method="post">
         <label>quantity: </label><br>
         <input type="text" name="quantity">
